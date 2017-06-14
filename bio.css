@@ -1,0 +1,32 @@
+h1,
+h2,
+h3 {
+    color: darkblue;
+    text-align: center;
+}
+
+body {
+	background-color:darkblue;
+}
+
+#topBanner {
+	background:lightblue;
+	color: darkblue;
+}
+
+.infoDiv {
+    width: 33.3%;
+    height: 300px;
+    float: left;
+    background: lightblue;
+    color: darkblue;
+    margin: auto;
+}
+
+img {
+	display:inline-block;
+	height: 75%;
+	widows: 75%;
+	border: 10px solid darkblue;
+	margin: 6.25%;
+}
